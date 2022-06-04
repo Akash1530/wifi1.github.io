@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wifi1.github.io/static/css/main.0dd43050.css",
+    "main.js": "/wifi1.github.io/static/js/main.589ec080.js",
+    "index.html": "/wifi1.github.io/index.html",
+    "main.0dd43050.css.map": "/wifi1.github.io/static/css/main.0dd43050.css.map",
+    "main.589ec080.js.map": "/wifi1.github.io/static/js/main.589ec080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd43050.css",
+    "static/js/main.589ec080.js"
+  ]
+}
